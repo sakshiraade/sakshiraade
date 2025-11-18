@@ -1,5 +1,4 @@
-# Hello,
-# I am Sakshi
+# Hello, I am Sakshi
 
 I’m a graduate student in my final semester at Northeastern University, Boston, specializing in Data Engineering and Analytics. I’m passionate about transforming raw data into meaningful insights and building scalable systems that solve real-world problems.
 
