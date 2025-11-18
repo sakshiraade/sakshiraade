@@ -28,7 +28,7 @@ My goal is to create data-driven solutions that are not only technically strong 
 - Business Process Engineering
 
 
-### 2. Bachelor of Engineering in Information Technology, University of Mumbai (Aug 2018 - June 2022)
+### 2. Bachelor of Science in Computer Science, University of Pune : India (Aug 2020 - May 2023)
 
 #### Relevant Coursework:
 - Advanced Data Management Technology
