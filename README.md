@@ -10,7 +10,7 @@ My goal is to create data-driven solutions that are not only technically strong 
 
 1. Data Analytics and insights Co-op @Fidelity Investments, Boston, MA (Jan 2025 - Jul 2025)
 2. Data and Operations Analyst @IST Management Services Boston, MA (Aug 2024 - Dec 2025)
-3. Data Analytics Engineer @Springflex Technologies, Pune, India (Aug 2022 - Aug 2023)
+3. Data Engineer @Springflex Technologies, Pune, India (Aug 2022 - Aug 2023)
 
 
 ## **Education:**
