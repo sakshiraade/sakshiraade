@@ -1,10 +1,22 @@
 # Hello, I am Sakshi
 
-I’m a graduate student in my final semester at Northeastern University, Boston, specializing in Data Engineering and Analytics. I’m passionate about transforming raw data into meaningful insights and building scalable systems that solve real-world problems.
+**Data Scientist & ML Engineer | Building End-to-End Analytics Solutions**
+**What You'll Find Here:**
 
-I value being calm, adaptable, and collaborative—qualities that help me work seamlessly with diverse teams and navigate fast-paced environments. I communicate my ideas clearly, approach challenges with a problem-solving mindset, and ensure alignment across stakeholders to drive projects forward.
+- ML pipelines for customer analytics, churn prediction, and recommendation systems
+- GenAI projects with RAG implementations, LangChain integrations, and LLM applications
+- Financial analytics tools and statistical modeling frameworks
+- Data visualization dashboards and automated reporting solutions
 
-My goal is to create data-driven solutions that are not only technically strong but also impactful, user-centric, and aligned with business needs.
+**Tech Stack:** Python | SQL | Scikit-learn | TensorFlow | LangChain | Tableau | Snowflake
+
+**Background:** MS in Information Systems + 2+ years building production analytics systems at scale (126M+ records)
+
+**Current Focus:** Advanced ML workflows, GenAI applications, and scalable data pipelines
+
+**Certifications:** NVIDIA Generative AI LLMs
+
+Always exploring new ways to solve complex problems with data. Open to collaborations and feedback! 🚀
 
 ## **Work Experience :** 
 
