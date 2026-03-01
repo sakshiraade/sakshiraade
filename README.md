@@ -52,6 +52,14 @@ Always exploring new ways to solve complex problems with data. Open to collabora
 - Python Programming Lab
 - R Programming Lab
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [📊 Social Engagement Intelligence](https://github.com/sakshiraade/social-engagement-intelligence) | Meta-style product analytics platform simulating a feed algorithm A/B test across 50K users. Includes experimentation, churn prediction, NLP topic modeling, and a deployed Streamlit dashboard with business impact estimator. | Python · XGBoost · SHAP · BERTopic · Claude API · Streamlit |
+| [🔍 Credit Card Fraud Detection](https://github.com/sakshiraade/fraud-detection-intelligence) | End-to-end fraud detection system on 284K real transactions. Built SQL data warehouse, engineered velocity features, compared Logistic Regression vs XGBoost vs PyTorch Neural Network, and integrated Claude API for AI-generated compliance risk narratives. | Python · PyTorch · XGBoost · SQLite · Claude API · Streamlit |
+| [🎤 AI-Powered TED Talk Analytics](https://github.com/sakshiraade/AI-Powered-TED-Talk-Personalization-and-Research-Assistant) | Analytics application in Snowflake using Streamlit with specialized AI agents for summarization, comparison, and personalized recommendations. Built dbt transformation pipeline with vector embeddings via Snowflake Cortex AI for semantic search. | Snowflake · dbt · Streamlit · Cortex AI · Vector Embeddings |
+| [📰 Research Analytics Platform](https://github.com/sakshiraade/Automating-Text-Extraction-and-Client---Facing-Application-Development) | ETL pipeline processing 10K+ daily articles using Apache Airflow, Kafka streaming, and FastAPI. Implemented dbt transformations and deployed on GCP with Docker containerization. | Airflow · Kafka · FastAPI · dbt · GCP · Docker |
 
 ## **Connect with me on** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-aade/)
 
