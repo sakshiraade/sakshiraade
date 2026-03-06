@@ -6,7 +6,7 @@ I specialize in product analytics, statistical experimentation, and machine lear
 
 📍 Boston, MA &nbsp;|&nbsp; 🎓 MS Information Systems, Northeastern University &nbsp;|&nbsp; 
 🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-aade/) &nbsp;|&nbsp;
-🔗 [Portfolio](https://sakshiraade.github.io/) &nbsp;|&nbsp;
+🔗 [Portfolio](https://sakshiraade.github.io/) 
 
 ---
 
