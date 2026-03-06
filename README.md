@@ -4,7 +4,9 @@
 
 I specialize in product analytics, statistical experimentation, and machine learning — staying close to the business to ensure insights directly drive decisions. From designing A/B tests and building churn models to deploying GenAI-powered dashboards, I focus on impact over complexity. Currently open to full-time Data Analyst and Data Scientist roles.
 
-📍 Boston, MA &nbsp;|&nbsp; 🎓 MS Information Systems, Northeastern University &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-aade/)
+📍 Boston, MA &nbsp;|&nbsp; 🎓 MS Information Systems, Northeastern University &nbsp;|&nbsp; 
+🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-aade/) &nbsp;|&nbsp;
+🔗 [Portfolio](https://sakshiraade.github.io/) &nbsp;|&nbsp;
 
 ---
 
