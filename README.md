@@ -78,7 +78,7 @@ I specialize in product analytics, statistical experimentation, and machine lear
 ## 🎓 Education
 
 **MS Information Systems** — Northeastern University, Boston *(Sep 2023 – Dec 2025)*
-Concentration: Data Analytics
+Concentration: Data Science and Analytics
 
 Relevant Coursework: Generative AI & LLMs for Data Engineering · Big Data Systems & Intelligence Analytics · Designing Advanced Data Architectures for Business Intelligence · Data Science Engineering Methods & Tools · Data Management & Database Design · Application Engineering & Development · Program Structures & Algorithms · Business Process Engineering
 
