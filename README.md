@@ -26,7 +26,7 @@ I specialize in product analytics, statistical experimentation, and machine lear
 | Role | Company | Period |
 |---|---|---|
 | Data Analytics & Insights Co-op | Fidelity Investments, Boston MA | Jan 2025 – Jul 2025 |
-| Data Analyst | IST Management Services, Boston MA | Aug 2024 – Dec 2024 |
+| Data Analyst | IST Management Services, Boston MA | Aug 2024 – Dec 2025 |
 | Data Analyst | Springflex Technologies, Pune India | Aug 2022 – Aug 2023 |
 
 ---
